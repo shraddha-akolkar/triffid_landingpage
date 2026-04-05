@@ -656,7 +656,7 @@ function App() {
                       type="tel"
                       id="demo-phone"
                       className="form-control"
-                      placeholder="91 00000-00000"
+                      placeholder="+91 00000-00000"
                     />
                   </div>
                   <div className="form-group">
