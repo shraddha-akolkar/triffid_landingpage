@@ -75,7 +75,7 @@ function App() {
             </li>
           </ul>
           <a
-            href="#launch"
+            href="https://triffidaidemo.netlify.app/"
             className="btn btn-primary"
             style={{ display: "flex", gap: "0.5rem" }}
           >
@@ -99,7 +99,10 @@ function App() {
               and cloud-agnostic deployment.
             </p>
             <div className="hero-buttons">
-              <a href="#launch" className="btn btn-primary">
+              <a
+                href="https://triffidaidemo.netlify.app/"
+                className="btn btn-primary"
+              >
                 <Play size={18} style={{ marginRight: "0.5rem" }} /> Launch App
               </a>
               <a
@@ -366,7 +369,7 @@ function App() {
               </li>
             </ul>
             <a
-              href="#launch"
+              href="https://triffidaidemo.netlify.app/"
               className="btn btn-primary"
               style={{ justifyContent: "center" }}
             >
@@ -497,7 +500,7 @@ function App() {
             </p>
             <div className="cta-buttons">
               <a
-                href="#launch"
+                href="https://triffidaidemo.netlify.app/"
                 className="btn btn-primary"
                 style={{ padding: "1rem 2rem", fontSize: "1.125rem" }}
               >
